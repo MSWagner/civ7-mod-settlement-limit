@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS">
+			<Text>Settlement Limit Settings</Text>
+		</Row>
+    <Row Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC">
+      <Text>Configure the base settlement limit cap for antiquity, exploration, and modern ages.</Text>
+		</Row>
+	</EnglishText>
+</Database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="fr_FR">
+			<Text>Paramètres de Limite de Colonies</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="fr_FR">
+      <Text>Configurez la limite de base des colonies pour les âges de l'Antiquité, de l'Exploration et Moderne.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="ja_JP">
+			<Text>入植制限設定</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="ja_JP">
+      <Text>古代、探検、近代の各時代の基本入植制限を設定します。</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

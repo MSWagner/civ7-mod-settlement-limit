@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="ru_RU">
+			<Text>Настройки Лимита Поселений</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="ru_RU">
+      <Text>Настройте базовый лимит поселений для эпох Античности, Исследований и Современности.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

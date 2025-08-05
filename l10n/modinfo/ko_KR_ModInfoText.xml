@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="ko_KR">
+			<Text>정착지 제한 설정</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="ko_KR">
+      <Text>고대, 탐험, 현대 시대의 기본 정착지 제한을 구성합니다.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

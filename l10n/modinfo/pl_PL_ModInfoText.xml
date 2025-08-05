@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="pl_PL">
+			<Text>Ustawienia Limitu Osiedli</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="pl_PL">
+      <Text>Skonfiguruj podstawowy limit osiedli dla er Starożytności, Odkryć i Nowoczesności.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

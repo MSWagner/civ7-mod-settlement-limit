@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="zh_Hant_HK">
+			<Text>定居點限制設定</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="zh_Hant_HK">
+      <Text>配置古代、探索和現代時期的基本定居點限制。</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

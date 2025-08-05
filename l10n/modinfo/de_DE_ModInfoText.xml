@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="de_DE">
+			<Text>Siedlungslimit-Einstellungen</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="de_DE">
+      <Text>Konfiguriere das Basis-Siedlungslimit für Antike, Entdeckungszeitalter und Moderne.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>

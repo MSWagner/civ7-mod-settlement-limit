@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<LocalizedText>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS" Language="es_ES">
+			<Text>Configuración de Límite de Asentamientos</Text>
+		</Replace>
+    <Replace Tag="LOC_MODULE_SETTLEMENT_LIMIT_SETTINGS_DESC" Language="es_ES">
+      <Text>Configura el límite base de asentamientos para las eras de Antigüedad, Exploración y Moderna.</Text>
+		</Replace>
+	</LocalizedText>
+</Database>
