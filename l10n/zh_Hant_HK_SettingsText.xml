@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_GROUPID_MWS_SETTLEMENT_LIMIT_OPTIONS" Language="zh_Hant_HK">
+      <Text>定居點限制</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_TYPE" Language="zh_Hant_HK">
+      <Text>定居點限制</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_TYPE_DESC" Language="zh_Hant_HK">
+      <Text>選擇遊戲的定居點限制類型。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_ANTIQUITY" Language="zh_Hant_HK">
+      <Text>定居點限制 - 古代</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_ANTIQUITY_DESC" Language="zh_Hant_HK">
+      <Text>設置古代時期的定居點限制。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_EXPLORATION" Language="zh_Hant_HK">
+      <Text>定居點限制 - 探索</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_EXPLORATION_DESC" Language="zh_Hant_HK">
+      <Text>設置探索時期的定居點限制。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_MODERN" Language="zh_Hant_HK">
+      <Text>定居點限制 - 現代</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_MODERN_DESC" Language="zh_Hant_HK">
+      <Text>設置現代時期的定居點限制。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_STANDARD" Language="zh_Hant_HK">
+      <Text>標準</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_STANDARD_DESC" Language="zh_Hant_HK">
+      <Text>遊戲標準定居點限制。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_DOUBLE" Language="zh_Hant_HK">
+      <Text>雙倍</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_DOUBLE_DESC" Language="zh_Hant_HK">
+      <Text>標準遊戲定居點限制的兩倍。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_CUSTOM" Language="zh_Hant_HK">
+      <Text>自定義</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_CUSTOM_DESC" Language="zh_Hant_HK">
+      <Text>為每個時代設置自定義定居點限制。</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MWS_SETTLEMENT_1" Language="zh_Hant_HK">
+      <Text>1</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_1_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 1。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_2" Language="zh_Hant_HK">
+      <Text>2</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_2_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 2。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_3" Language="zh_Hant_HK">
+      <Text>3</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_3_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 3。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_4" Language="zh_Hant_HK">
+      <Text>4</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_4_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 4。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_5" Language="zh_Hant_HK">	
+      <Text>5</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_5_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 5。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_6" Language="zh_Hant_HK">
+      <Text>6</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_6_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 6。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_7" Language="zh_Hant_HK">
+      <Text>7</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_7_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 7。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_8" Language="zh_Hant_HK">
+      <Text>8</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_8_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 8。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_9" Language="zh_Hant_HK">
+      <Text>9</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_9_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 9。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_10" Language="zh_Hant_HK">
+      <Text>10</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_10_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 10。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_16" Language="zh_Hant_HK">
+      <Text>16</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_16_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 16。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_20" Language="zh_Hant_HK">
+      <Text>20</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_20_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 20。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_30" Language="zh_Hant_HK">
+      <Text>30</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_30_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 30。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_32" Language="zh_Hant_HK">
+      <Text>32</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_32_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 32。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_40" Language="zh_Hant_HK">
+      <Text>40</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_40_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 40。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_50" Language="zh_Hant_HK">
+      <Text>50</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_50_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 50。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_100" Language="zh_Hant_HK">
+      <Text>100</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_100_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 100。</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_200" Language="zh_Hant_HK">
+      <Text>200</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_200_DESC" Language="zh_Hant_HK">
+      <Text>定居點限制為 200。</Text>
+    </Replace>
+  </LocalizedText>
+</Database>

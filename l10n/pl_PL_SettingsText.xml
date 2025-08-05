@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+  <LocalizedText>
+    <Replace Tag="LOC_GROUPID_MWS_SETTLEMENT_LIMIT_OPTIONS" Language="pl_PL">
+      <Text>Limit Osiedli</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_TYPE" Language="pl_PL">
+      <Text>Limit Osiedli</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_TYPE_DESC" Language="pl_PL">
+      <Text>Wybierz typ limitu osiedli dla gry.</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_ANTIQUITY" Language="pl_PL">
+      <Text>Limit Osiedli - Starożytność</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_ANTIQUITY_DESC" Language="pl_PL">
+      <Text>Ustawia limit osiedli dla Ery Starożytności.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_EXPLORATION" Language="pl_PL">
+      <Text>Limit Osiedli - Odkrycia</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_EXPLORATION_DESC" Language="pl_PL">
+      <Text>Ustawia limit osiedli dla Ery Odkryć.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_MODERN" Language="pl_PL">
+      <Text>Limit Osiedli - Nowoczesność</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_MODERN_DESC" Language="pl_PL">
+      <Text>Ustawia limit osiedli dla Ery Nowoczesności.</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_STANDARD" Language="pl_PL">
+      <Text>Standardowy</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_STANDARD_DESC" Language="pl_PL">
+      <Text>Standardowy limit osiedli w grze.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_DOUBLE" Language="pl_PL">
+      <Text>Podwójny</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_DOUBLE_DESC" Language="pl_PL">
+      <Text>Dwa razy większy limit osiedli niż w standardowej grze.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_CUSTOM" Language="pl_PL">
+      <Text>Niestandardowy</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_LIMIT_CUSTOM_DESC" Language="pl_PL">
+      <Text>Ustawia niestandardowy limit osiedli dla każdej ery.</Text>
+    </Replace>
+
+    <Replace Tag="LOC_MWS_SETTLEMENT_1" Language="pl_PL">
+      <Text>1</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_1_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 1.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_2" Language="pl_PL">
+      <Text>2</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_2_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 2.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_3" Language="pl_PL">
+      <Text>3</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_3_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 3.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_4" Language="pl_PL">
+      <Text>4</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_4_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 4.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_5" Language="pl_PL">	
+      <Text>5</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_5_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 5.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_6" Language="pl_PL">
+      <Text>6</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_6_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 6.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_7" Language="pl_PL">
+      <Text>7</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_7_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 7.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_8" Language="pl_PL">
+      <Text>8</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_8_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 8.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_9" Language="pl_PL">
+      <Text>9</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_9_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 9.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_10" Language="pl_PL">
+      <Text>10</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_10_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 10.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_16" Language="pl_PL">
+      <Text>16</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_16_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 16.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_20" Language="pl_PL">
+      <Text>20</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_20_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 20.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_30" Language="pl_PL">
+      <Text>30</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_30_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 30.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_32" Language="pl_PL">
+      <Text>32</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_32_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 32.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_40" Language="pl_PL">
+      <Text>40</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_40_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 40.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_50" Language="pl_PL">
+      <Text>50</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_50_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 50.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_100" Language="pl_PL">
+      <Text>100</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_100_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 100.</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_200" Language="pl_PL">
+      <Text>200</Text>
+    </Replace>
+    <Replace Tag="LOC_MWS_SETTLEMENT_200_DESC" Language="pl_PL">
+      <Text>Limit osiedli: 200.</Text>
+    </Replace>
+  </LocalizedText>
+</Database>
