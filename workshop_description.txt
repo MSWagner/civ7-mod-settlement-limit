@@ -1,0 +1,44 @@
+# Settlement Limit Settings for Civilization VII
+
+## Features
+Customize your civilization's settlement limits! This mod gives you control over how many settlements each civilization can build throughout the game.
+
+### Three Setting Options:
+- **Standard**: Use the default game settlement limits (3, 8, 16)
+- **Double**: Double the standard limits (6, 16, 32)
+- **Custom**: Set your own limit for each age:
+  - Choose from 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 20, 30, 32, 40, 50, 100 or 200 settlements
+
+### Customize Each Age Independently
+Set different settlement limits for Antiquity, Exploration, and Modern ages to shape your game experience exactly how you want it.
+
+### Full Localization
+Available in multiple languages:
+- English
+- German (Deutsch)
+- Spanish (Español)
+- French (Français)
+- Italian (Italiano)
+- Japanese (日本語)
+- Korean (한국어)
+- Polish (Polski)
+- Portuguese (Português)
+- Russian (Русский)
+- Chinese (Simplified & Traditional)
+
+### Balanced Gameplay Options
+Whether you want a compact game with few cities or a sprawling empire with hundreds of settlements, this mod gives you full control over your civilization's expansion.
+
+## How to Use
+1. When setting up a new game, check the Advanced Setup options
+2. Under Game Options, find the "Settlement Limit" setting
+3. Choose your preferred type (Standard, Double, or Custom)
+4. If using Custom, you can set individual limits for each age
+
+## Compatibility
+- Should work with all game modes
+- Requires base game and all age modules
+- Should not affect existing save games
+
+## Support
+For bug reports or feedback, please leave a comment or visit our GitHub repository: https://github.com/MSWagner/civ7-mod-settlement-limit
