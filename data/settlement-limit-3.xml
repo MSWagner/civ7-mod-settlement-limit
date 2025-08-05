@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+    <ModifierArguments>
+        <Update>
+            <Where ModifierId="TRAIT_INITIAL_SETTLEMENT_CAP" name="Amount"/>
+            <Set Value="3"/>
+        </Update>
+    </ModifierArguments>
+</Database>

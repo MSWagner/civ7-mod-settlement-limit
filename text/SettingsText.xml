@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Database>
+	<EnglishText>
+		<Row Tag="LOC_GROUPID_MWS_SETTLEMENT_LIMIT_OPTIONS">
+			<Text>Settlement Limit</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_TYPE">
+			<Text>Settlement Limit</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_TYPE_DESC">
+			<Text>Choose the settlement limit type for the game.</Text>
+		</Row>
+
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_ANTIQUITY">
+			<Text>Settlement Limit - Antiquity</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_ANTIQUITY_DESC">
+			<Text>Set the settlement limit for the Antiquity age.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_EXPLORATION">
+			<Text>Settlement Limit - Exploration</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_EXPLORATION_DESC">
+			<Text>Set the settlement limit for the Exploration age.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_MODERN">
+			<Text>Settlement Limit - Modern</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_MODERN_DESC">
+			<Text>Set the settlement limit for the Modern age.</Text>
+		</Row>
+
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_STANDARD">
+			<Text>Standard</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_STANDARD_DESC">
+			<Text>Standard settlement limit of the game.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_DOUBLE">
+			<Text>Double</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_DOUBLE_DESC">
+			<Text>Double the standard settlement limit of the game.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_CUSTOM">
+			<Text>Custom</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_LIMIT_CUSTOM_DESC">
+			<Text>Set a custom settlement limit for each age.</Text>
+		</Row>
+
+		<Row Tag="LOC_MWS_SETTLEMENT_1">
+			<Text>1</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_1_DESC">
+			<Text>Settlement limit of 1.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_2">
+			<Text>2</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_2_DESC">
+			<Text>Settlement limit of 2.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_3">
+			<Text>3</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_3_DESC">
+			<Text>Settlement limit of 3.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_4">
+			<Text>4</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_4_DESC">
+			<Text>Settlement limit of 4.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_5">	
+			<Text>5</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_5_DESC">
+			<Text>Settlement limit of 5.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_6">
+			<Text>6</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_6_DESC">
+			<Text>Settlement limit of 6.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_7">
+			<Text>7</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_7_DESC">
+			<Text>Settlement limit of 7.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_8">
+			<Text>8</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_8_DESC">
+			<Text>Settlement limit of 8.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_9">
+			<Text>9</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_9_DESC">
+			<Text>Settlement limit of 9.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_10">
+			<Text>10</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_10_DESC">
+			<Text>Settlement limit of 10.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_16">
+			<Text>16</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_16_DESC">
+			<Text>Settlement limit of 16.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_20">
+			<Text>20</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_20_DESC">
+			<Text>Settlement limit of 20.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_30">
+			<Text>30</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_30_DESC">
+			<Text>Settlement limit of 30.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_32">
+			<Text>32</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_32_DESC">
+			<Text>Settlement limit of 32.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_40">
+			<Text>40</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_40_DESC">
+			<Text>Settlement limit of 40.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_50">
+			<Text>50</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_50_DESC">
+			<Text>Settlement limit of 50.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_100">
+			<Text>100</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_100_DESC">
+			<Text>Settlement limit of 100.</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_200">
+			<Text>200</Text>
+		</Row>
+		<Row Tag="LOC_MWS_SETTLEMENT_200_DESC">
+			<Text>Settlement limit of 200.</Text>
+		</Row>
+	</EnglishText>
+</Database>
