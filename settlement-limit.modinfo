@@ -9,6 +9,8 @@
 		<Package>MW's Settlement Limit Settings</Package>
     <AffectsSavedGames>1</AffectsSavedGames>
     <EnabledByDefault>1</EnabledByDefault>
+    <Version>1.0.1</Version>
+		<URL>https://github.com/MSWagner/civ7-mod-settlement-limit</URL>
 	</Properties>
 	<Dependencies>
 		<Mod id="base-standard" title="LOC_MODULE_BASE_STANDARD_NAME"/>
@@ -21,6 +23,7 @@
 			<AlwaysMet/>
 		</Criteria>
 
+    <!-- Double Settlement Limit -->
     <Criteria id="double-settlement-limit-antiquity">
       <AgeInUse>AGE_ANTIQUITY</AgeInUse>
 			<ConfigurationValueMatches>
@@ -46,13 +49,713 @@
       </ConfigurationValueMatches>
     </Criteria>
 
-    <Criteria id="custom-settlement-limit">
-			<ConfigurationValueMatches>
-				<Group>Game</Group>
-				<ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
-				<Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
-			</ConfigurationValueMatches>
-		</Criteria>
+    <!-- Custom Settlement Limit Antiquity -->
+    <Criteria id="custom-settlement-limit-antiquity-1">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_1</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-2">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_2</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-3">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_3</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-4">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_4</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-5">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_5</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-6">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_6</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-7">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_7</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-8">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_8</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-9">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_9</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-10">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_10</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-16">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_16</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-20">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_20</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-30">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_30</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-32">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_32</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-40">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_40</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-50">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_50</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-100">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_100</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-antiquity-200">
+      <AgeInUse>AGE_ANTIQUITY</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitAntiquity</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_ANTIQUITY_200</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+
+    <!-- Custom Settlement Limit Exploration -->
+    <Criteria id="custom-settlement-limit-exploration-1">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_1</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-2">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_2</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-3">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_3</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-4">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_4</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-5">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_5</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-6">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_6</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-7">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_7</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-8">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_8</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-9">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_9</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-10">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_10</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-16">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_16</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-20">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_20</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-30">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_30</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-32">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_32</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-40">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_40</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-50">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_50</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-100">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_100</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-exploration-200">
+      <AgeInUse>AGE_EXPLORATION</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitExploration</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_EXPLORATION_200</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+
+    <!-- Custom Settlement Limit Modern -->
+    <Criteria id="custom-settlement-limit-modern-1">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_1</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-2">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_2</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-3">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_3</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-4">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_4</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-5">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_5</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-6">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_6</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-7">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_7</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-8">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_8</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-9">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_9</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-10">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_10</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-16">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_16</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-20">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_20</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-30">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_30</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-32">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_32</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-40">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_40</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-50">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_50</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-100">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_100</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
+    <Criteria id="custom-settlement-limit-modern-200">
+      <AgeInUse>AGE_MODERN</AgeInUse>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitType</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_CUSTOM</Value>
+      </ConfigurationValueMatches>
+      <ConfigurationValueMatches>
+        <Group>Game</Group>
+        <ConfigurationId>MWS-SettlementLimitModern</ConfigurationId>
+        <Value>MWS_SETTLEMENT_LIMIT_MODERN_200</Value>
+      </ConfigurationValueMatches>
+    </Criteria>
 	</ActionCriteria>
 	<ActionGroups>
 
@@ -68,6 +771,7 @@
 
 				<UpdateText>
 					<Item>text/SettingsText.xml</Item>
+          <Item locale="de_DE">l10n/de_DE_SettingsText.xml</Item>
 				</UpdateText>
 			</Actions>
 		</ActionGroup>
@@ -95,7 +799,389 @@
       </Actions>
     </ActionGroup>
 
+    <!-- Custom Settlement Limit Antiquity -->
+    <ActionGroup id="custom-settlement-limit-antiquity-1" scope="game" criteria="custom-settlement-limit-antiquity-1">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-1.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-2" scope="game" criteria="custom-settlement-limit-antiquity-2">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-2.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-3" scope="game" criteria="custom-settlement-limit-antiquity-3">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-3.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-4" scope="game" criteria="custom-settlement-limit-antiquity-4">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-4.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-5" scope="game" criteria="custom-settlement-limit-antiquity-5">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-5.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-6" scope="game" criteria="custom-settlement-limit-antiquity-6">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-6.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-7" scope="game" criteria="custom-settlement-limit-antiquity-7">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-7.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-8" scope="game" criteria="custom-settlement-limit-antiquity-8">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-8.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-9" scope="game" criteria="custom-settlement-limit-antiquity-9">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-9.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-10" scope="game" criteria="custom-settlement-limit-antiquity-10">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-10.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-16" scope="game" criteria="custom-settlement-limit-antiquity-16">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-16.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-20" scope="game" criteria="custom-settlement-limit-antiquity-20">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-20.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-30" scope="game" criteria="custom-settlement-limit-antiquity-30">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-30.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-32" scope="game" criteria="custom-settlement-limit-antiquity-32">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-32.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-40" scope="game" criteria="custom-settlement-limit-antiquity-40">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-40.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-50" scope="game" criteria="custom-settlement-limit-antiquity-50">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-50.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-100" scope="game" criteria="custom-settlement-limit-antiquity-100">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-100.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-antiquity-200" scope="game" criteria="custom-settlement-limit-antiquity-200">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-200.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+
+    <!-- Custom Settlement Limit Exploration -->
+    <ActionGroup id="custom-settlement-limit-exploration-1" scope="game" criteria="custom-settlement-limit-exploration-1">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-1.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-2" scope="game" criteria="custom-settlement-limit-exploration-2">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-2.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-3" scope="game" criteria="custom-settlement-limit-exploration-3">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-3.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-4" scope="game" criteria="custom-settlement-limit-exploration-4">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-4.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-5" scope="game" criteria="custom-settlement-limit-exploration-5">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-5.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-6" scope="game" criteria="custom-settlement-limit-exploration-6">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-6.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-7" scope="game" criteria="custom-settlement-limit-exploration-7">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-7.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-8" scope="game" criteria="custom-settlement-limit-exploration-8">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-8.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-9" scope="game" criteria="custom-settlement-limit-exploration-9">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-9.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-10" scope="game" criteria="custom-settlement-limit-exploration-10">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-10.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-16" scope="game" criteria="custom-settlement-limit-exploration-16">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-16.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-20" scope="game" criteria="custom-settlement-limit-exploration-20">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-20.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-30" scope="game" criteria="custom-settlement-limit-exploration-30">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-30.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-32" scope="game" criteria="custom-settlement-limit-exploration-32">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-32.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-40" scope="game" criteria="custom-settlement-limit-exploration-40">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-40.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-50" scope="game" criteria="custom-settlement-limit-exploration-50">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-50.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-100" scope="game" criteria="custom-settlement-limit-exploration-100">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-100.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-exploration-200" scope="game" criteria="custom-settlement-limit-exploration-200">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-200.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+
+    <!-- Custom Settlement Limit Modern -->
+    <ActionGroup id="custom-settlement-limit-modern-1" scope="game" criteria="custom-settlement-limit-modern-1">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-1.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-2" scope="game" criteria="custom-settlement-limit-modern-2">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-2.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-3" scope="game" criteria="custom-settlement-limit-modern-3">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-3.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-4" scope="game" criteria="custom-settlement-limit-modern-4">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-4.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-5" scope="game" criteria="custom-settlement-limit-modern-5">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-5.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-6" scope="game" criteria="custom-settlement-limit-modern-6">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-6.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-7" scope="game" criteria="custom-settlement-limit-modern-7">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-7.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-8" scope="game" criteria="custom-settlement-limit-modern-8">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-8.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-9" scope="game" criteria="custom-settlement-limit-modern-9">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-9.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-10" scope="game" criteria="custom-settlement-limit-modern-10">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-10.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-16" scope="game" criteria="custom-settlement-limit-modern-16">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-16.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-20" scope="game" criteria="custom-settlement-limit-modern-20">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-20.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-30" scope="game" criteria="custom-settlement-limit-modern-30">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-30.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-32" scope="game" criteria="custom-settlement-limit-modern-32">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-32.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-40" scope="game" criteria="custom-settlement-limit-modern-40">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-40.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-50" scope="game" criteria="custom-settlement-limit-modern-50">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-50.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-100" scope="game" criteria="custom-settlement-limit-modern-100">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-100.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+    <ActionGroup id="custom-settlement-limit-modern-200" scope="game" criteria="custom-settlement-limit-modern-200">
+      <Actions>
+        <UpdateDatabase>
+          <Item>data/settlement-limit-200.xml</Item>
+        </UpdateDatabase>
+      </Actions>
+    </ActionGroup>
+
 	</ActionGroups>
-	<LocalizedText>
-	</LocalizedText>
 </Mod>
