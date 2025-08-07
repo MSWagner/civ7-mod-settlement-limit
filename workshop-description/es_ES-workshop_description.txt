@@ -1,0 +1,44 @@
+# Configuración de Límite de Asentamientos para Civilization VII
+
+## Características
+¡Personaliza los límites de asentamientos de tu civilización! Este mod te da control sobre cuántos asentamientos puede construir cada civilización a lo largo del juego.
+
+### Tres Opciones de Configuración:
+- **Estándar**: Usa los límites de asentamientos predeterminados del juego (3, 8, 16)
+- **Doble**: Duplica los límites estándar (6, 16, 32)
+- **Personalizado**: Establece tu propio límite para cada era:
+  - Elige entre 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 20, 30, 32, 40, 50, 100 o 200 asentamientos
+
+### Personaliza Cada Era Independientemente
+Establece diferentes límites de asentamientos para las eras de Antigüedad, Exploración y Moderna para adaptar tu experiencia de juego exactamente como deseas.
+
+### Localización Completa
+Disponible en múltiples idiomas:
+- Inglés
+- Alemán (Deutsch)
+- Español
+- Francés (Français)
+- Italiano (Italiano)
+- Japonés (日本語)
+- Coreano (한국어)
+- Polaco (Polski)
+- Portugués (Português)
+- Ruso (Русский)
+- Chino (Simplificado y Tradicional)
+
+### Opciones de Jugabilidad Equilibradas
+Ya sea que quieras un juego compacto con pocas ciudades o un imperio extenso con cientos de asentamientos, este mod te da control total sobre la expansión de tu civilización.
+
+## Cómo Usar
+1. Al configurar una nueva partida, revisa las opciones de Configuración Avanzada
+2. En Opciones de Juego, encuentra la configuración "Límite de Asentamientos"
+3. Elige tu tipo preferido (Estándar, Doble o Personalizado)
+4. Si usas Personalizado, puedes establecer límites individuales para cada era
+
+## Compatibilidad
+- Debería funcionar con todos los modos de juego
+- Requiere el juego base y todos los módulos de era
+- No debería afectar a partidas guardadas existentes
+
+## Soporte
+Para informes de errores o comentarios, por favor deja un comentario o visita nuestro repositorio de GitHub: https://github.com/MSWagner/civ7-mod-settlement-limit

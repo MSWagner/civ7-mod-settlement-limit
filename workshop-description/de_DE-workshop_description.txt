@@ -1,0 +1,44 @@
+# Siedlungslimit-Einstellungen für Civilization VII
+
+## Funktionen
+Passen Sie die Siedlungslimits Ihrer Zivilisation an! Dieser Mod gibt Ihnen Kontrolle darüber, wie viele Siedlungen jede Zivilisation im Laufe des Spiels bauen kann.
+
+### Drei Einstellungsoptionen:
+- **Standard**: Verwenden Sie die Standard-Spielsiedlungslimits (3, 8, 16)
+- **Doppelt**: Verdoppeln Sie die Standardlimits (6, 16, 32)
+- **Benutzerdefiniert**: Legen Sie Ihr eigenes Limit für jedes Zeitalter fest:
+  - Wählen Sie aus 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 20, 30, 32, 40, 50, 100 oder 200 Siedlungen
+
+### Passen Sie jedes Zeitalter unabhängig an
+Legen Sie unterschiedliche Siedlungslimits für die Antike, Erkundung und Moderne Zeitalter fest, um Ihr Spielerlebnis genau nach Ihren Wünschen zu gestalten.
+
+### Vollständige Lokalisierung
+Verfügbar in mehreren Sprachen:
+- Englisch
+- Deutsch
+- Spanisch (Español)
+- Französisch (Français)
+- Italienisch (Italiano)
+- Japanisch (日本語)
+- Koreanisch (한국어)
+- Polnisch (Polski)
+- Portugiesisch (Português)
+- Russisch (Русский)
+- Chinesisch (Vereinfacht & Traditionell)
+
+### Ausbalancierte Gameplay-Optionen
+Ob Sie ein kompaktes Spiel mit wenigen Städten oder ein ausgedehntes Imperium mit Hunderten von Siedlungen wünschen, dieser Mod gibt Ihnen die volle Kontrolle über die Expansion Ihrer Zivilisation.
+
+## Verwendung
+1. Überprüfen Sie bei der Einrichtung eines neuen Spiels die erweiterten Setup-Optionen
+2. Unter Spieloptionen finden Sie die Einstellung "Siedlungslimit"
+3. Wählen Sie Ihren bevorzugten Typ (Standard, Doppelt oder Benutzerdefiniert)
+4. Bei Verwendung von Benutzerdefiniert können Sie individuelle Limits für jedes Zeitalter festlegen
+
+## Kompatibilität
+- Sollte mit allen Spielmodi funktionieren
+- Erfordert das Grundspiel und alle Zeitalter-Module
+- Sollte bestehende Spielstände nicht beeinträchtigen
+
+## Support
+Für Fehlerberichte oder Feedback hinterlassen Sie bitte einen Kommentar oder besuchen Sie unser GitHub-Repository: https://github.com/MSWagner/civ7-mod-settlement-limit

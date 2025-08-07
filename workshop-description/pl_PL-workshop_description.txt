@@ -1,0 +1,44 @@
+# Ustawienia Limitu Osad dla Civilization VII
+
+## Funkcje
+Dostosuj limity osad swojej cywilizacji! Ten mod daje ci kontrolę nad tym, ile osad każda cywilizacja może zbudować w trakcie gry.
+
+### Trzy Opcje Ustawień:
+- **Standardowy**: Użyj domyślnych limitów osad z gry (3, 8, 16)
+- **Podwójny**: Podwój standardowe limity (6, 16, 32)
+- **Niestandardowy**: Ustaw własny limit dla każdej ery:
+  - Wybierz spośród 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 20, 30, 32, 40, 50, 100 lub 200 osad
+
+### Dostosuj Każdą Erę Niezależnie
+Ustaw różne limity osad dla er Starożytności, Odkryć i Nowoczesnej, aby kształtować swoje doświadczenie z grą dokładnie tak, jak chcesz.
+
+### Pełna Lokalizacja
+Dostępne w wielu językach:
+- Angielski
+- Niemiecki (Deutsch)
+- Hiszpański (Español)
+- Francuski (Français)
+- Włoski (Italiano)
+- Japoński (日本語)
+- Koreański (한국어)
+- Polski
+- Portugalski (Português)
+- Rosyjski (Русский)
+- Chiński (Uproszczony i Tradycyjny)
+
+### Zbalansowane Opcje Rozgrywki
+Niezależnie od tego, czy chcesz kompaktową grę z kilkoma miastami, czy rozległe imperium z setkami osad, ten mod daje ci pełną kontrolę nad ekspansją twojej cywilizacji.
+
+## Jak Używać
+1. Podczas konfigurowania nowej gry, sprawdź opcje Zaawansowanej Konfiguracji
+2. W Opcjach Gry znajdź ustawienie "Limit Osad"
+3. Wybierz preferowany typ (Standardowy, Podwójny lub Niestandardowy)
+4. Jeśli używasz Niestandardowego, możesz ustawić indywidualne limity dla każdej ery
+
+## Kompatybilność
+- Powinien działać ze wszystkimi trybami gry
+- Wymaga podstawowej gry i wszystkich modułów er
+- Nie powinien wpływać na istniejące zapisy gier
+
+## Wsparcie
+W przypadku zgłoszeń błędów lub opinii, proszę zostawić komentarz lub odwiedzić nasze repozytorium GitHub: https://github.com/MSWagner/civ7-mod-settlement-limit

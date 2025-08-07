@@ -1,0 +1,44 @@
+# Paramètres de Limite de Colonies pour Civilization VII
+
+## Fonctionnalités
+Personnalisez les limites de colonies de votre civilisation ! Ce mod vous donne le contrôle sur le nombre de colonies que chaque civilisation peut construire tout au long du jeu.
+
+### Trois Options de Paramétrage :
+- **Standard** : Utilisez les limites de colonies par défaut du jeu (3, 8, 16)
+- **Double** : Doublez les limites standard (6, 16, 32)
+- **Personnalisé** : Définissez votre propre limite pour chaque ère :
+  - Choisissez parmi 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 16, 20, 30, 32, 40, 50, 100 ou 200 colonies
+
+### Personnalisez Chaque Ère Indépendamment
+Définissez différentes limites de colonies pour les ères de l'Antiquité, de l'Exploration et Moderne pour façonner votre expérience de jeu exactement comme vous le souhaitez.
+
+### Localisation Complète
+Disponible en plusieurs langues :
+- Anglais
+- Allemand (Deutsch)
+- Espagnol (Español)
+- Français
+- Italien (Italiano)
+- Japonais (日本語)
+- Coréen (한국어)
+- Polonais (Polski)
+- Portugais (Português)
+- Russe (Русский)
+- Chinois (Simplifié et Traditionnel)
+
+### Options de Gameplay Équilibrées
+Que vous souhaitiez un jeu compact avec peu de villes ou un empire étendu avec des centaines de colonies, ce mod vous donne un contrôle total sur l'expansion de votre civilisation.
+
+## Comment Utiliser
+1. Lors de la configuration d'une nouvelle partie, vérifiez les options de Configuration Avancée
+2. Dans Options de Jeu, trouvez le paramètre "Limite de Colonies"
+3. Choisissez votre type préféré (Standard, Double ou Personnalisé)
+4. Si vous utilisez Personnalisé, vous pouvez définir des limites individuelles pour chaque ère
+
+## Compatibilité
+- Devrait fonctionner avec tous les modes de jeu
+- Nécessite le jeu de base et tous les modules d'ère
+- Ne devrait pas affecter les sauvegardes existantes
+
+## Support
+Pour les rapports de bugs ou les commentaires, veuillez laisser un commentaire ou visiter notre dépôt GitHub : https://github.com/MSWagner/civ7-mod-settlement-limit
